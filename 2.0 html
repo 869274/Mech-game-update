@@ -2817,6 +2817,6 @@ setTimeout(()=>{
   if(dm){dm.onclick=()=>{$('#dead').classList.add('hidden');state='menu';showMenu();NET.disconnect()}}
 },0);
 </script>
-
+<script src="mobile-controls.js"></script>
 </body>
 </html>
